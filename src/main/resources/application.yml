@@ -1,0 +1,4 @@
+server:
+  context-path: /config-client
+
+#server.context-path=/config-client
